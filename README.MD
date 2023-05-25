@@ -15,14 +15,14 @@
 The code is in a privat repository.
 
 ### How to play:
-
+```
    Move left: A
    Move right: D
    Move down: S
    Move up: W
    To roll: Space
    Attack: Mouse click
-
+```
 
 
 
