@@ -18,21 +18,20 @@ The code is in a privat repository.
 
 
 
-### Assets:  
-![](https://github.com/DamianPyCoder/Unity__Games__x6/blob/main/red_robot_executable/assets/enemy.png)
-![](https://github.com/DamianPyCoder/Unity__Games__x6/blob/main/red_robot_executable/assets/prota.png)
-![](https://github.com/DamianPyCoder/Unity__Games__x6/blob/main/red_robot_executable/assets/1.png)
-![](https://github.com/DamianPyCoder/Unity__Games__x6/blob/main/red_robot_executable/assets/2.png)
-![](https://github.com/DamianPyCoder/Unity__Games__x6/blob/main/red_robot_executable/assets/4.png)
-![](https://github.com/DamianPyCoder/Unity__Games__x6/blob/main/red_robot_executable/assets/3.png)
-![](https://github.com/DamianPyCoder/Unity__Games__x6/blob/main/red_robot_executable/assets/5.png)
+
+
 
 
 
 ### Screenshots:
 ![](https://github.com/DamianPyCoder/Unity__Games__x6/blob/main/red_robot_executable/screenshots/robot2.png)
 
-![](https://github.com/DamianPyCoder/Unity__Games__x6/blob/main/red_robot_executable/screenshots/robot6.png)
+![](https://github.com/DamianPyCoder/Unity__Games__x6/blob/main/red_robot_executable/screenshots/robot6.png)  
+
+### Assets:  
+![](https://github.com/DamianPyCoder/Unity__Games__x6/blob/main/red_robot_executable/assets/prota.png)
+![](https://github.com/DamianPyCoder/Unity__Games__x6/blob/main/red_robot_executable/assets/enemy.png)
+
 
 
 
