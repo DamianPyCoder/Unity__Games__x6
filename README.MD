@@ -12,17 +12,16 @@
 #  
 ## 4- LITTLE RED ROBOT 3D
 
-### History:
+### How to play:
 
 
-#### How to play:
+### Link download: 
 
 
-Link download: 
+### Assets:
 
-Assets:
 
-Screenshots:
+### Screenshots:
 ![](https://github.com/DamianPyCoder/Unity__Games__x6/blob/main/red_robot_executable/screenshots/robot2.png)
 
 ![](https://github.com/DamianPyCoder/Unity__Games__x6/blob/main/red_robot_executable/screenshots/robot6.png)
