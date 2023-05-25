@@ -11,7 +11,7 @@
 #  
 #  
 ## 4- LITTLE RED ROBOT 3D
-[Download](https://github.com/DamianPyCoder/Unity__Games__x6/tree/main/red_robot_executable)
+[Download game in Rar file](https://github.com/DamianPyCoder/Unity__Games__x6/tree/main/red_robot_executable)
 
 ### How to play:
 
@@ -41,6 +41,7 @@
 #  
 #  
 ## 1- RPG NINJA GAME (curso de Udemy) 2D
+[Download code](https://github.com/DamianPyCoder/Unity__Games__x6/tree/main/Code_RPG)
 
 ![](https://github.com/DamianPyCoder/Unity__Game__EndlessRunner3D/blob/main/Screenshots_RPGGame/6.png)  
 
