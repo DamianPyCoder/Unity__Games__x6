@@ -11,11 +11,9 @@
 #  
 #  
 ## 4- LITTLE RED ROBOT 3D
-![](https://github.com/DamianPyCoder/Unity__Games__x6/blob/main/red_robot_executable/screenshots/robot1.png)
+
 ![](https://github.com/DamianPyCoder/Unity__Games__x6/blob/main/red_robot_executable/screenshots/robot2.png)
-![](https://github.com/DamianPyCoder/Unity__Games__x6/blob/main/red_robot_executable/screenshots/robot3.png)
-![](https://github.com/DamianPyCoder/Unity__Games__x6/blob/main/red_robot_executable/screenshots/robot4.png)
-![](https://github.com/DamianPyCoder/Unity__Games__x6/blob/main/red_robot_executable/screenshots/robot5.png)
+
 ![](https://github.com/DamianPyCoder/Unity__Games__x6/blob/main/red_robot_executable/screenshots/robot6.png)
 
 
