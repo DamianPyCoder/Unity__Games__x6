@@ -2,7 +2,7 @@
 #  
 
   
-## 6- ROCKET RACOON GAME
+## 6- ROCKET RACOON GAME 3D
 
 #  
 #  
@@ -10,22 +10,22 @@
 
 #  
 #  
-## 4- Little Red Robot
+## 4- LITTLE RED ROBOT 3D
 
 
 #  
 #  
-## 3- PLATFORM GAME
+## 3- PLATFORM GAME 2D
 
 
 #  
 #  
-## 2- KILL THE TRASGOS
+## 2- KILL THE TRASGOS 2D
 
 
 #  
 #  
-## 1- RPG NINJA GAME (curso de Udemy)
+## 1- RPG NINJA GAME (curso de Udemy) 2D
 
 ![](https://github.com/DamianPyCoder/Unity__Game__EndlessRunner3D/blob/main/Screenshots_RPGGame/1.png)  
 ![](https://github.com/DamianPyCoder/Unity__Game__EndlessRunner3D/blob/main/Screenshots_RPGGame/2.png)  
