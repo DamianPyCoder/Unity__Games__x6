@@ -40,7 +40,7 @@ The code is in a privat repository.
 #  
 #  
 ## 4- PLATFORM GAME 2D
-[Download code](https://github.com/DamianPyCoder/Unity__Games__x6/tree/main/Code_RPG)
+[Download code](https://github.com/DamianPyCoder/Unity__Games__x6/tree/main/Screenshots_platformGame)
 
 
 #  
