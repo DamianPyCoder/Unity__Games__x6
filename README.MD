@@ -42,6 +42,17 @@ The code is in a privat repository.
 ## 4- PLATFORM GAME 2D
 [Download code](https://github.com/DamianPyCoder/Unity__Games__x6/tree/main/Screenshots_platformGame)
 
+### How to play:
+```
+   Move back:        A
+   Move forward:     D
+   To bend:          S
+   Jump:             W
+   Attack:           X
+```
+
+
+
 
 #  
 #  
