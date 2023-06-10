@@ -64,6 +64,15 @@ The code is in a privat repository.
 ## 6- RPG NINJA GAME (curso de Udemy) 2D
 [Download code](https://github.com/DamianPyCoder/Unity__Games__x6/tree/main/Code_RPG)
 
+### How to play:
+```
+   Move left:          A
+   Move right:         D
+   Move down:          S
+   Move up:            W
+   Select or Attack:   Mouse click
+```
+
 ![](https://github.com/DamianPyCoder/Unity__Game__EndlessRunner3D/blob/main/Screenshots_RPGGame/6.png)  
 
 ![](https://github.com/DamianPyCoder/Unity__Game__EndlessRunner3D/blob/main/Screenshots_RPGGame/2.png)  
